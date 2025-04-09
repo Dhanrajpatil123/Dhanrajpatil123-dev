@@ -5,11 +5,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Java+Developer;Spring+Boot+%7C+React+%7C+MySQL;Technical+Trainer+%7C+Mentor+%F0%9F%91%8D" alt="Typing SVG" />
 </p>
 
-- 🔭 I’m currently working on: **E-Commerce Product Management App & Blog App**
+- 🔭 I’m currently working on: **Live Projects**
 - 🌱 I’m learning: **Data Structures & Algorithms in Java**
-- 👨‍🏫 I’ve trained over **1,000+ students** in Java, Python & Databases
+- 👨‍🏫 I’ve trained over **10,000+ students** in Java, Python & Databases
 - 💬 Ask me about: **Java, Spring Boot, React, APIs, Project Building**
-- 📫 How to reach me: **[your email or LinkedIn]**
+- 📫 How to reach me: **patildhanraj900@gmail.com**
 - ⚡ Fun fact: *I love building real-world apps and mentoring young devs.*
 
 ---
@@ -34,10 +34,10 @@
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/dhanrajpatil99" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:patildhanraj900@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
